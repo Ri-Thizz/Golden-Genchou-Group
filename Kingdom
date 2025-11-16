@@ -1,0 +1,17 @@
+{
+"title": "",
+"description": "",
+"artist": "",
+"author": "",
+"cover": "<mangacoverurl.jpg>",
+"chapters": {
+"<832>": {
+"title": "",
+"volume": "",
+"groups": {
+"": "/proxy/api/imgur/chapter/https://imgur.com/a/48hlEYk/"
+}
+"last_updated": "1616368746"
+},
+}
+}
