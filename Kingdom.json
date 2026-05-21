@@ -131,7 +131,7 @@
     },
     "856": {
       "title": "The Deadly Assassin",
-      "volume": "79",
+      "volume": "78",
       "last_updated": "1765750829",
       "groups": {
         "Golden Genchou Group": [
@@ -217,7 +217,7 @@
     },
     "859": {
       "title": "Non-Existent Arrow",
-      "volume": "78",
+      "volume": "79",
       "last_updated": "1765751336",
       "groups": {
         "Golden Genchou Group": [
@@ -246,7 +246,7 @@
     },
     "860": {
       "title": "Challenge To The Ten Bows",
-      "volume": "78",
+      "volume": "79",
       "last_updated": "1765751385",
       "groups": {
         "Golden Genchou Group": [
@@ -275,7 +275,7 @@
     },
     "861": {
       "title": "The Bow’s Final Destination",
-      "volume": "78",
+      "volume": "79",
       "last_updated": "1766687583",
       "groups": {
         "Golden Genchou Group": [
@@ -304,7 +304,7 @@
     },
     "862": {
       "title": "The Ultimate Arrow",
-      "volume": "78",
+      "volume": "79",
       "last_updated": "1767858075",
       "groups": {
         "Golden Genchou Group": [
@@ -333,7 +333,7 @@
     },
     "863": {
       "title": "The Arrow That Flies Forever",
-      "volume": "78",
+      "volume": "79",
       "last_updated": "1769127165",
       "groups": {
         "Golden Genchou Group": [
@@ -363,7 +363,7 @@
     },
     "864": {
       "title": "Offense and Defense of the North",
-      "volume": "78",
+      "volume": "79",
       "last_updated": "1769811902",
       "groups": {
         "Golden Genchou Group": [
@@ -392,7 +392,7 @@
     },
     "865": {
       "title": "King Of The Stateless Area",
-      "volume": "78",
+      "volume": "79",
       "last_updated": "1772504269",
       "groups": {
         "Golden Genchou Group": [
@@ -420,7 +420,7 @@
     },
     "866": {
       "title": "A Double-Edged Sword",
-      "volume": "78",
+      "volume": "79",
       "last_updated": "1772504772",
       "groups": {
         "Golden Genchou Group": [
@@ -449,7 +449,7 @@
     },
     "867": {
       "title": "The Fateful North",
-      "volume": "78",
+      "volume": "79",
       "last_updated": "1772505230",
       "groups": {
         "Golden Genchou Group": [
@@ -479,7 +479,7 @@
     },
     "868": {
       "title": "Lessons From Dai",
-      "volume": "78",
+      "volume": "80",
       "last_updated": "1774485374",
       "groups": {
         "Golden Genchou Group": [
@@ -509,7 +509,7 @@
     },
     "869": {
       "title": "The Air Of A Great General",
-      "volume": "78",
+      "volume": "80",
       "last_updated": "1774485955",
       "groups": {
         "Golden Genchou Group": [
@@ -539,7 +539,7 @@
     },
     "870": {
       "title": "A Large Scale Strategy",
-      "volume": "78",
+      "volume": "80",
       "last_updated": "1774486451",
       "groups": {
         "Golden Genchou Group": [
@@ -569,7 +569,7 @@
     },
     "871": {
       "title": "Allies’ Self-Sacrifice",
-      "volume": "78",
+      "volume": "80",
       "last_updated": "1776490224",
       "groups": {
         "Golden Genchou Group": [
@@ -598,7 +598,7 @@
     },
     "872": {
       "title": "Something Reprehensible",
-      "volume": "78",
+      "volume": "80",
       "last_updated": "1776490549",
       "groups": {
         "Golden Genchou Group": [
@@ -626,7 +626,7 @@
     },
     "873": {
       "title": "All of China Will Know",
-      "volume": "78",
+      "volume": "80",
       "last_updated": "1776893369",
       "groups": {
         "Golden Genchou Group": [
@@ -655,7 +655,7 @@
     },
     "874": {
       "title": "The Third Army",
-      "volume": "78",
+      "volume": "80",
       "last_updated": "1778526170",
       "groups": {
         "Golden Genchou Group": [
@@ -679,6 +679,32 @@
           "https://cdn.imgchest.com/files/f485af904a26.png",
           "https://cdn.imgchest.com/files/dc63c818ed4d.png",
           "https://cdn.imgchest.com/files/f3ea04688bf1.png"
+        ]
+      }
+    },
+    "875": {
+      "title": "875",
+      "volume": "80",
+      "last_updated": "1779347595",
+      "groups": {
+        "Golden Genchou Group": [
+          "https://cdn.imgchest.com/files/efb744f13949.jpeg",
+          "https://cdn.imgchest.com/files/940929dadbe0.png",
+          "https://cdn.imgchest.com/files/5e13cd16558c.png",
+          "https://cdn.imgchest.com/files/231383bcad07.png",
+          "https://cdn.imgchest.com/files/18efa705d181.png",
+          "https://cdn.imgchest.com/files/c2fa7585ba91.png",
+          "https://cdn.imgchest.com/files/82296ad2104e.png",
+          "https://cdn.imgchest.com/files/2d1d38ebec05.png",
+          "https://cdn.imgchest.com/files/65583d18dcbb.png",
+          "https://cdn.imgchest.com/files/c72b1c716425.png",
+          "https://cdn.imgchest.com/files/4f07d8044986.png",
+          "https://cdn.imgchest.com/files/6ed270392080.png",
+          "https://cdn.imgchest.com/files/404d25c74e3b.png",
+          "https://cdn.imgchest.com/files/8044be18d0f9.png",
+          "https://cdn.imgchest.com/files/b98a42e6b910.png",
+          "https://cdn.imgchest.com/files/e8099f367df9.png",
+          "https://cdn.imgchest.com/files/71e03293e48a.png"
         ]
       }
     }
