@@ -604,8 +604,7 @@
           "https://cdn.imgchest.com/files/4f2e0cfb5218.jpeg",
           "https://cdn.imgchest.com/files/f367acae71d8.jpeg",
           "https://cdn.imgchest.com/files/60d00342fcff.jpeg",
-          "https://cdn.imgchest.com/files/f66792740e02.png",
-          ""
+          "https://cdn.imgchest.com/files/f66792740e02.png"
         ]
       }
     },
@@ -635,6 +634,62 @@
           "https://cdn.imgchest.com/files/c8d49de863e2.png",
           "https://cdn.imgchest.com/files/73a07a8e0223.png",
           "https://cdn.imgchest.com/files/c6881891611f.png"
+        ]
+      }
+    },
+    "880": {
+      "title": "Brothers In Arms",
+      "volume": "80",
+      "last_updated": "1783139315",
+      "groups": {
+        "Golden Genchou Group": [
+          "https://cdn.imgchest.com/files/dc3890c5cb14.jpeg",
+          "https://cdn.imgchest.com/files/8ff0b34cb46c.png",
+          "https://cdn.imgchest.com/files/f916424396b9.png",
+          "https://cdn.imgchest.com/files/8412eba8cf04.png",
+          "https://cdn.imgchest.com/files/72fdccd41bc1.png",
+          "https://cdn.imgchest.com/files/cc33fec09a9e.png",
+          "https://cdn.imgchest.com/files/56c097f41545.png",
+          "https://cdn.imgchest.com/files/3193b4b4a699.png",
+          "https://cdn.imgchest.com/files/3e96df49a634.png",
+          "https://cdn.imgchest.com/files/e197bbf98614.png",
+          "https://cdn.imgchest.com/files/39979d8c204d.png",
+          "https://cdn.imgchest.com/files/5735998db08a.png",
+          "https://cdn.imgchest.com/files/01b8d494c974.png",
+          "https://cdn.imgchest.com/files/5071eaf3f069.png",
+          "https://cdn.imgchest.com/files/71a23fb8d6f5.png",
+          "https://cdn.imgchest.com/files/730ef13294c8.png",
+          "https://cdn.imgchest.com/files/1e7d1d522b76.png",
+          "https://cdn.imgchest.com/files/6ccc9cabff39.png",
+          "https://cdn.imgchest.com/files/c85a80c1a460.png"
+        ]
+      }
+    },
+    "881": {
+      "title": "The Gaku Ka's Flag",
+      "volume": "80",
+      "last_updated": "1783139660",
+      "groups": {
+        "Golden Genchou Group": [
+          "https://cdn.imgchest.com/files/39fdc4e4b212.jpeg",
+          "https://cdn.imgchest.com/files/ad3bd2aface1.png",
+          "https://cdn.imgchest.com/files/d2d1b4dca65b.png",
+          "https://cdn.imgchest.com/files/4a83f004bf02.png",
+          "https://cdn.imgchest.com/files/2c854b79ec6e.png",
+          "https://cdn.imgchest.com/files/9768557406cd.png",
+          "https://cdn.imgchest.com/files/2102c9ca0c4b.png",
+          "https://cdn.imgchest.com/files/6deb0bdb7de7.png",
+          "https://cdn.imgchest.com/files/60100794e344.png",
+          "https://cdn.imgchest.com/files/0fd082fa0460.png",
+          "https://cdn.imgchest.com/files/28024f0745cb.png",
+          "https://cdn.imgchest.com/files/2cb0e9cadc28.png",
+          "https://cdn.imgchest.com/files/e27d2ae0e570.png",
+          "https://cdn.imgchest.com/files/0f506bff1e78.png",
+          "https://cdn.imgchest.com/files/8f813312514d.png",
+          "https://cdn.imgchest.com/files/a178913563b0.png",
+          "https://cdn.imgchest.com/files/63062e5b1ebc.png",
+          "https://cdn.imgchest.com/files/d28200497aeb.png",
+          "https://cdn.imgchest.com/files/3367bb1614b0.png"
         ]
       }
     }
