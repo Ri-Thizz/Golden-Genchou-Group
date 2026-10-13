@@ -5,6 +5,286 @@
   "author": "Hara Yasuhisa",
   "cover": "https://cdn.imgchest.com/files/6396b2133ccd.jpeg",
   "chapters": {
+        "800": {
+      "title": "The Three Pillars",
+      "volume": "73",
+      "last_updated": "1761536682",
+      "groups": {
+        "Sense Scans": "/proxy/api/imgchest/chapter/bp45mop6vy5"
+      }
+    },
+    "801": {
+      "title": "The Second Pillar",
+      "volume": "73",
+      "last_updated": "1761536697",
+      "groups": {
+        "Sense Scans": "/proxy/api/imgchest/chapter/o24a26qne7l"
+      }
+    },
+    "802": {
+      "title": "The Army Of A Great General",
+      "volume": "74",
+      "last_updated": "1761536712",
+      "groups": {
+        "Sense Scans": "/proxy/api/imgchest/chapter/agyvxnqjk78"
+      }
+    },
+    "803": {
+      "title": "The Third Pillar",
+      "volume": "74",
+      "last_updated": "1761536725",
+      "groups": {
+        "Sense Scans": "/proxy/api/imgchest/chapter/92492kwl8yn"
+      }
+    },
+    "804": {
+      "title": "The Unusual New Force",
+      "volume": "74",
+      "last_updated": "1761536739",
+      "groups": {
+        "Sense Scans": "/proxy/api/imgchest/chapter/md7oabwvlyp"
+      }
+    },
+    "805": {
+      "title": "Swift As Lightning",
+      "volume": "74",
+      "last_updated": "1761536755",
+      "groups": {
+        "Sense Scans": "/proxy/api/imgchest/chapter/wl7lawg63yx"
+      }
+    },
+    "806": {
+      "title": "Three Options",
+      "volume": "74",
+      "last_updated": "1761536769",
+      "groups": {
+        "Sense Scans": "/proxy/api/imgchest/chapter/9rydq2me64k"
+      }
+    },
+    "807": {
+      "title": "Nanyou Castle",
+      "volume": "74",
+      "last_updated": "1761536784",
+      "groups": {
+        "Sense Scans": "/proxy/api/imgchest/chapter/ej7maew6a7d"
+      }
+    },
+    "808": {
+      "title": "Flag",
+      "volume": "74",
+      "last_updated": "1761536798",
+      "groups": {
+        "Sense Scans": "/proxy/api/imgchest/chapter/qb4z5perl4j"
+      }
+    },
+    "809": {
+      "title": "The Responsibility Of The Six Greats",
+      "volume": "74",
+      "last_updated": "1761536812",
+      "groups": {
+        "Sense Scans": "/proxy/api/imgchest/chapter/xny8e6v9wyb"
+      }
+    },
+    "810": {
+      "title": "The People Of Nanyou",
+      "volume": "74",
+      "last_updated": "1761536829",
+      "groups": {
+        "Sense Scans": "/proxy/api/imgchest/chapter/o24a26qme7l"
+      }
+    },
+    "811": {
+      "title": "The Blade's Meaning",
+      "volume": "74",
+      "last_updated": "1761536843",
+      "groups": {
+        "Sense Scans": "/proxy/api/imgchest/chapter/agyvxnqlk78"
+      }
+    },
+    "812": {
+      "title": "Under The Law",
+      "volume": "74",
+      "last_updated": "1761536857",
+      "groups": {
+        "Sense Scans": "/proxy/api/imgchest/chapter/92492kw98yn"
+      }
+    },
+    "813": {
+      "title": "The State Of Nanyou",
+      "volume": "75",
+      "last_updated": "1761536872",
+      "groups": {
+        "Sense Scans": "/proxy/api/imgchest/chapter/9p4nvzw65yn"
+      }
+    },
+    "814": {
+      "title": "The Envoy From Qin",
+      "volume": "75",
+      "last_updated": "1761536886",
+      "groups": {
+        "Sense Scans": "/proxy/api/imgchest/chapter/md7oabwdlyp"
+      }
+    },
+    "815": {
+      "title": "All The Kingdoms' Focus",
+      "volume": "75",
+      "last_updated": "1761536901",
+      "groups": {
+        "Sense Scans": "/proxy/api/imgchest/chapter/wl7lawgl3yx"
+      }
+    },
+    "816": {
+      "title": "The Vice-Commander's Words Of Encouragement",
+      "volume": "75",
+      "last_updated": "1761536916",
+      "groups": {
+        "Sense Scans": "/proxy/api/imgchest/chapter/ljyqakxmx72"
+      }
+    },
+    "817": {
+      "title": "Breaking The Deadlock",
+      "volume": "75",
+      "last_updated": "1761536932",
+      "groups": {
+        "Sense Scans": "/proxy/api/imgchest/chapter/5xy2qoax8yl"
+      }
+    },
+    "818": {
+      "title": "Tou At The Rear",
+      "volume": "75",
+      "last_updated": "1761536946",
+      "groups": {
+        "Sense Scans": "/proxy/api/imgchest/chapter/wl7lawgloyx"
+      }
+    },
+    "819": {
+      "title": "Discussion At The Battleground",
+      "volume": "75",
+      "last_updated": "1761536960",
+      "groups": {
+        "Sense Scans": "/proxy/api/imgchest/chapter/9rydq2m3n4k"
+      }
+    },
+    "820": {
+      "title": "Tou's Words",
+      "volume": "75",
+      "last_updated": "1761536976",
+      "groups": {
+        "Sense Scans": "/proxy/api/imgchest/chapter/ej7maewjj7d"
+      }
+    },
+    "821": {
+      "title": "The Monstrously Strong Warrior",
+      "volume": "75",
+      "last_updated": "1761536994",
+      "groups": {
+        "Sense Scans": "/proxy/api/imgchest/chapter/n87w9nd8byx"
+      }
+    },
+    "822": {
+      "title": "Malefics For Wei And Zhao",
+      "volume": "75",
+      "last_updated": "1761537009",
+      "groups": {
+        "Sense Scans": "/proxy/api/imgchest/chapter/qb4z5pelv4j"
+      }
+    },
+    "823": {
+      "title": "The World That Raku'a Kan Sees",
+      "volume": "75",
+      "last_updated": "1761537023",
+      "groups": {
+        "Sense Scans": "/proxy/api/imgchest/chapter/xny8e6vrdyb"
+      }
+    },
+    "824": {
+      "title": "Duties",
+      "volume": "76",
+      "last_updated": "1761537037",
+      "groups": {
+        "Sense Scans": "/proxy/api/imgchest/chapter/bp45mopjgy5"
+      }
+    },
+    "825": {
+      "title": "The Stones Of Nanyou",
+      "volume": "76",
+      "last_updated": "1761537053",
+      "groups": {
+        "Sense Scans": "/proxy/api/imgchest/chapter/m9yx9nrlkyq"
+      }
+    },
+    "826": {
+      "title": "A Difference In Quality",
+      "volume": "76",
+      "last_updated": "1761537067",
+      "groups": {
+        "Sense Scans": "/proxy/api/imgchest/chapter/92492kw5ayn"
+      }
+    },
+    "827": {
+      "title": "The Presence Of Inheritance",
+      "volume": "76",
+      "last_updated": "1761537080",
+      "groups": {
+        "Sense Scans": "/proxy/api/imgchest/chapter/9p4nvzwmlyn"
+      }
+    },
+    "828": {
+      "title": "The Outstanding Men Of The Tou Army",
+      "volume": "76",
+      "last_updated": "1761537095",
+      "groups": {
+        "Sense Scans": "/proxy/api/imgchest/chapter/ne7bl6dovy5"
+      }
+    },
+    "829": {
+      "title": "A Hero's Name",
+      "volume": "76",
+      "last_updated": "1761537110",
+      "groups": {
+        "Sense Scans": "/proxy/api/imgchest/chapter/5xy2qoam8yl"
+      }
+    },
+    "830": {
+      "title": "Mayhem in Shintei",
+      "volume": "76",
+      "last_updated": "1761537120",
+      "groups": {
+        "Sense Scans": "/proxy/api/imgchest/chapter/ljyqakxek72"
+      }
+    },
+    "831": {
+      "title": "The State of the Battle of Tousa",
+      "volume": "76",
+      "last_updated": "1761537130",
+      "groups": {
+        "Sense Scans": "/proxy/api/imgchest/chapter/9rydq2mon4k"
+      }
+    },
+    "832": {
+      "title": "The Fierce Battle at Tousa",
+      "volume": "76",
+      "last_updated": "1762772834",
+      "groups": {
+        "Sense Scans": "/proxy/api/imgchest/chapter/n87w9pmwgyx"
+      }
+    },
+    "833": {
+      "title": "Critical Counsel",
+      "volume": "76",
+      "last_updated": "1776816806",
+      "groups": {
+        "YEAR ZERO & 3GG": "/proxy/api/imgchest/chapter/vj4j5l9b278"
+      }
+    },
+    "834": {
+      "title": "Han Army's Morale",
+      "volume": "76",
+      "last_updated": "1776816882",
+      "groups": {
+        "YEAR ZERO & 3GG": "/proxy/api/imgchest/chapter/bp45jg3lqy5"
+      }
+    },
     "858": {
       "title": "A Battlefield With No End",
       "volume": "79",
